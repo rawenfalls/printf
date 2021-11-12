@@ -6,13 +6,13 @@
 #    By: eraynald <eraynald@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/15 21:36:09 by eraynald          #+#    #+#              #
-#    Updated: 2021/10/24 15:45:48 by eraynald         ###   ########.fr        #
+#    Updated: 2021/10/25 17:56:54 by eraynald         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	=	libftprintf.a
 
-LIST	=	ft_printf.c
+LIST	=	ft_printf.c printf_dop.c printf_dop2.c
 
 LIST_B	=	
 
